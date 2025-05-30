@@ -1,0 +1,5 @@
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/Qt_6_5_3_for_macOS-Debug/CMakeFiles/CAD_Model_Viewer.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/Qt_6_5_3_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/Qt_6_5_3_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/Qt_6_5_3_for_macOS-Debug/CMakeFiles/CAD_Model_Viewer_autogen_timestamp_deps.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/Qt_6_5_3_for_macOS-Debug/CMakeFiles/CAD_Model_Viewer_autogen.dir

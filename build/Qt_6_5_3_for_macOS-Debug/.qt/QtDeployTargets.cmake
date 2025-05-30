@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CAD_Model_Viewer_FILE /Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/Qt_6_5_3_for_macOS-Debug/CAD_Model_Viewer.app/Contents/MacOS/CAD_Model_Viewer)
+set(__QT_DEPLOY_TARGET_CAD_Model_Viewer_TYPE EXECUTABLE)

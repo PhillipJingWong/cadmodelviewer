@@ -1,0 +1,18 @@
+# ninja log v6
+437	1258	1748611266164179414	CMakeFiles/qtvtktest.dir/qtvtktest_autogen/mocs_compilation.cpp.o	ae2c83fd9b030a2e
+20	65	1748611962806627337	CAD_Model_Viewer_autogen/timestamp	5651ddf3b541fa7
+438	2078	1748611266164476495	CMakeFiles/qtvtktest.dir/mainwindow.cpp.o	6f223d650f957dc1
+1595	1692	1748611964381403990	CAD_Model_Viewer.app/Contents/MacOS/CAD_Model_Viewer	dd2b260b183a4c
+20	65	1748611962806627337	/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CAD_Model_Viewer_autogen/timestamp	5651ddf3b541fa7
+20	65	1748611962806627337	CAD_Model_Viewer_autogen/mocs_compilation.cpp	5651ddf3b541fa7
+438	1343	1748611266164358412	CMakeFiles/qtvtktest.dir/main.cpp.o	e56469836e75d08d
+442	1257	1748611301085114573	CMakeFiles/CAD_Model_Viewer.dir/CAD_Model_Viewer_autogen/mocs_compilation.cpp.o	5516c21d0a684eda
+65	1595	1748611962851529874	CMakeFiles/CAD_Model_Viewer.dir/mainwindow.cpp.o	c511485cd5cf1274
+20	65	1748611962806627337	/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CAD_Model_Viewer_autogen/mocs_compilation.cpp	5651ddf3b541fa7
+442	1344	1748611301085288238	CMakeFiles/CAD_Model_Viewer.dir/main.cpp.o	94762796b9018444
+19	77	1748612093441638258	CAD_Model_Viewer_autogen/timestamp	5651ddf3b541fa7
+19	77	1748612093441638258	CAD_Model_Viewer_autogen/mocs_compilation.cpp	5651ddf3b541fa7
+19	77	1748612093441638258	/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CAD_Model_Viewer_autogen/timestamp	5651ddf3b541fa7
+19	77	1748612093441638258	/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CAD_Model_Viewer_autogen/mocs_compilation.cpp	5651ddf3b541fa7
+77	1605	1748612093499679862	CMakeFiles/CAD_Model_Viewer.dir/mainwindow.cpp.o	c511485cd5cf1274
+1605	1706	1748612095027379536	CAD_Model_Viewer.app/Contents/MacOS/CAD_Model_Viewer	dd2b260b183a4c

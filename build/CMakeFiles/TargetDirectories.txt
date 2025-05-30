@@ -1,0 +1,5 @@
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CMakeFiles/CAD_Model_Viewer.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CMakeFiles/edit_cache.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CMakeFiles/rebuild_cache.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CMakeFiles/CAD_Model_Viewer_autogen_timestamp_deps.dir
+/Users/phillipwong/Documents/Code/EEEE2046 Computing Project/CAD Model Viewer/CAD_Model_Viewer/build/CMakeFiles/CAD_Model_Viewer_autogen.dir
